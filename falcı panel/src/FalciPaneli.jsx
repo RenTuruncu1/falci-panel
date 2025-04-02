@@ -1,4 +1,3 @@
-
 export default function FalciPaneli() {
-  return <div>Falcı Paneli - Yayına hazır!</div>;
+  return <div style={{ padding: 40 }}>Falcı Paneli - Yayına hazır!</div>;
 }
